@@ -1,5 +1,4 @@
 notes
 =====
 
-notes
 MY NOTES
